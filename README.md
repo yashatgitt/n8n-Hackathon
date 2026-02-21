@@ -120,7 +120,7 @@ To prevent workflow failures:
 ## 📸 Screenshots
 
 ### 1️⃣ Telegram Interaction
-![Telegram Demo](./images/telegram-demo.png)
+![Telegram Demo](img1)
 
 ### 2️⃣ Workflow Architecture in n8n
 ![Workflow Architecture](./images/workflow-architecture.png)
