@@ -121,12 +121,8 @@ To prevent workflow failures:
 
 ### 1️⃣ Telegram Interaction
 ![Telegram Demo](img1)
-
+![Workflow Architecture](img2)
 ### 2️⃣ Workflow Architecture in n8n
-![Workflow Architecture](./images/workflow-architecture.png)
-
-### 3️⃣ Multi-Step Execution Example
-![Multi Step Execution](./images/multi-step-execution.png)
 
 ---
 
